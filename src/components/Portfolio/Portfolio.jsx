@@ -233,7 +233,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://omjaju18.github.io/Yahdog/"
+              href="https://yahdog.netlify.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"
