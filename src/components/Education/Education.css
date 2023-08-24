@@ -1,0 +1,39 @@
+.qualification__sections {
+    justify-content: center;
+}
+
+.qualification__icon {
+    font-size: 1.25rem;
+    margin-right: 1rem;
+    color: var(--color-primary);
+
+}
+
+.qualification__data {
+    display: inline-block;
+    grid-template-columns: 1fr;
+    background: var(--color-bg-variant);
+    padding: 1.2rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+
+}
+
+.qualification__data:hover {
+    border-color: var(--color-primary-variant);
+    background: transparent;
+}
+
+
+.qualification__subtitle {
+    display: inline-block;
+    font-weight: 300;
+    margin-bottom: 1rem;
+
+}
+
+.qualification__calender {
+    font-size: 1rem;
+    color: var(--color-white);
+}
