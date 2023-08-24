@@ -22,7 +22,7 @@ const Portfolio = () => {
       <div className="container portfolio__container">
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={threads} alt="" width={350} height={263} />
+            <img src={threads} alt="" width={330} height={263} />
           </div>
           <h3> Threads Clone Using ReactJS, NextJS , MongoDB, Tailwind CSS </h3>
           <div className="portfolio__item-cta">
@@ -47,7 +47,7 @@ const Portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={Linkedin} alt="" />
+            <img src={Linkedin} alt="" width={330} height={263} />
           </div>
           <h3>Linkedin-Clone Using ReactJS, Redux and Firebase</h3>
           <div className="portfolio__item-cta">
@@ -71,7 +71,7 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={foodieHeaven} alt="" width={350} height={263} />
+            <img src={foodieHeaven} alt="" width={330} height={263} />
           </div>
           <h3> FoodieHavan Using ReactJS, Context API </h3>
           <div className="portfolio__item-cta">
@@ -96,7 +96,7 @@ const Portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={airbnb} alt="" width={350} height={263} />
+            <img src={airbnb} alt="" width={330} height={263} />
           </div>
           <h3> Airbnb Clone using HTML, CSS </h3>
           <div className="portfolio__item-cta">
@@ -121,7 +121,7 @@ const Portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={amazon} alt="" width={350} height={263} />
+            <img src={amazon} alt="" width={330} height={263} />
           </div>
           <h3> Amazon Clone using HTML, CSS </h3>
           <div className="portfolio__item-cta">
@@ -145,7 +145,7 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={netflix} alt="" width={350} height={263} />
+            <img src={netflix} alt="" width={330} height={263} />
           </div>
           <h3> Netflix Clone using HTML, CSS </h3>
           <div className="portfolio__item-cta">
@@ -170,7 +170,7 @@ const Portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={linkedin} alt="" width={350} height={263} />
+            <img src={linkedin} alt="" width={330} height={263} />
           </div>
           <h3> Linkedin Clone using HTML, CSS </h3>
           <div className="portfolio__item-cta">
@@ -195,7 +195,7 @@ const Portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={stock} alt="" />
+            <img src={stock} alt="" width={330} height={263} />
           </div>
           <h3>Market Trend Analysis using Machine Learning</h3>
           <div className="portfolio__item-cta">
@@ -220,7 +220,7 @@ const Portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={Dog} alt="" width="20px" />
+            <img src={Dog} alt="" width={330} height={263} />
           </div>
           <h3>Yahdog - A Dog Adoption Website Using HTML, CSS</h3>
           <div className="portfolio__item-cta">
@@ -244,7 +244,7 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={yoga} alt="" />
+            <img src={yoga} alt="" width={330} height={263} />
           </div>
           <h3>Fitness Guru - Yoga website using HTML, CSS and Bootstrap</h3>
           <div className="portfolio__item-cta">
