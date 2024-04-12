@@ -9,7 +9,7 @@ import airbnb from "../../Assets/airbnb.png";
 import threads from "../../Assets/threads.png";
 import Dog from "../../Assets/Dog.jpg";
 import yoga from "../../Assets/yoga.jpg";
-import netflix from "../../Assets/netflix.jpg";
+import medium from "../../Assets/medium.jpg";
 
 import "./Portfolio.css";
 
@@ -47,12 +47,12 @@ const Portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={Linkedin} alt="" width={330} height={263} />
+            <img src={medium} alt="" width={330} height={263} />
           </div>
-          <h3>Linkedin-Clone Using ReactJS, Redux and Firebase</h3>
+          <h3> Medium Clone </h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/omjaju18/Linkedin-clone"
+              href="https://github.com/omjaju18/Medium-Clone"
               className="btn"
               target="_blank"
               rel="noopener noreferrer"
@@ -60,7 +60,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://linkedin-cloneoj.netlify.app/"
+              href="https://medium-clone-omjaju.vercel.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"
@@ -69,6 +69,7 @@ const Portfolio = () => {
             </a>
           </div>
         </article>
+
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={foodieHeaven} alt="" width={330} height={263} />
@@ -84,7 +85,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://foodiehaven.netlify.app/"
+              href="https://foodie-haven-omjaju.vercel.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"
@@ -96,12 +97,12 @@ const Portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={airbnb} alt="" width={330} height={263} />
+            <img src={Linkedin} alt="" width={330} height={263} />
           </div>
-          <h3> Airbnb Clone using HTML, CSS </h3>
+          <h3>Linkedin-Clone Using ReactJS, Redux and Firebase</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/omjaju18/Airbnb-Clone"
+              href="https://github.com/omjaju18/Linkedin-clone"
               className="btn"
               target="_blank"
               rel="noopener noreferrer"
@@ -109,7 +110,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://airbnbclone-oj.netlify.app/"
+              href="https://lc-omjaju.vercel.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"
@@ -134,31 +135,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://amazon-clone-oj.netlify.app/"
-              className="btn btn-primary"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Live Demo
-            </a>
-          </div>
-        </article>
-        <article className="portfolio__item">
-          <div className="portfolio__item-image">
-            <img src={netflix} alt="" width={330} height={263} />
-          </div>
-          <h3> Netflix Clone using HTML, CSS </h3>
-          <div className="portfolio__item-cta">
-            <a
-              href="https://github.com/omjaju18/Netflix-Clone"
-              className="btn"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Github
-            </a>
-            <a
-              href="https://nf-om.netlify.app/"
+              href="https://amazon-clone-omjajus-projects.vercel.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"
@@ -183,32 +160,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://linkedin-oj.netlify.app/"
-              className="btn btn-primary"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Live Demo
-            </a>
-          </div>
-        </article>
-
-        <article className="portfolio__item">
-          <div className="portfolio__item-image">
-            <img src={stock} alt="" width={330} height={263} />
-          </div>
-          <h3>Market Trend Analysis using Machine Learning</h3>
-          <div className="portfolio__item-cta">
-            <a
-              href="https://github.com/omjaju18/Stock-Market-Prediction-using-Machine-Learning"
-              className="btn"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Github
-            </a>
-            <a
-              href="http://localhost:8888/notebooks/STOCK%20PROJECT/Google%20stock%20price.ipynb"
+              href="https://linkedinclone-omjaju.vercel.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"
@@ -233,31 +185,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://yahdog.netlify.app/"
-              className="btn btn-primary"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Live Demo
-            </a>
-          </div>
-        </article>
-        <article className="portfolio__item">
-          <div className="portfolio__item-image">
-            <img src={yoga} alt="" width={330} height={263} />
-          </div>
-          <h3>Fitness Guru - Yoga website using HTML, CSS and Bootstrap</h3>
-          <div className="portfolio__item-cta">
-            <a
-              href="https://github.com/omjaju18/Fitness-Guru"
-              className="btn"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Github
-            </a>
-            <a
-              href="https://fitnessguru18.netlify.app/"
+              href="https://yahdog-omjaju.vercel.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"

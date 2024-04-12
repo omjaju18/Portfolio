@@ -39,7 +39,7 @@ const Footer = () => {
           <BsInstagram />
         </a>
         <a
-          href="https://www.linkedin.com/in/-omjaju/"
+          href="https://www.linkedin.com/in/omjaju/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -62,7 +62,7 @@ const Footer = () => {
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; OMJAJU 2023. All rights reserved</small>
+        <small>&copy; OMJAJU 2024. All rights reserved</small>
       </div>
     </footer>
   );
