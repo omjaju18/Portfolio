@@ -49,7 +49,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={medium} alt="" width={330} height={263} />
           </div>
-          <h3> Medium Clone </h3>
+          <h3> Medium Clone using NextJS and Firebase</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/omjaju18/Medium-Clone"
